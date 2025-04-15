@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>UniversalFreightShip is committed to delivering seamless logistics solutions with unmatched reliability. Our dedicated support team ensures smooth operations, providing 24/7 assistance for tracking, shipment inquiries, and technical support</p>
           </div>
         `
         break
